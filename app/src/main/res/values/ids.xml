@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MainActivity -->
+    <item name="tab_index" type="id" />
+    <item name="tab_follow" type="id" />
+    <item name="tab_me" type="id" />
+    <item name="fl_content" type="id" />
+
+    <!-- IndexFragment -->
+    <item name="index_pagers" type="id" />
+    <item name="indicator" type="id" />
+
+    <!-- Index1Fragment -->
+</resources>

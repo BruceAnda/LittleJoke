@@ -1,0 +1,2 @@
+include ':app', ':viewPagerIndicator'
+project(':viewPagerIndicator').projectDir = new File('libraries/viewPagerIndicator')

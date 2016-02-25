@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LittleJoke</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="update_at">更新时间</string>
+</resources>
